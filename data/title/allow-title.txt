@@ -1,0 +1,5 @@
+[TheBestAdrules关圣云®去广告DNS规则集]
+! Title: guandasheng
+! Homepage: https://github.com/guandasheng/TheBestAdrules
+! Homepage: https://down.newlover.cn/
+! Expires: 12 Hours
