@@ -3,7 +3,7 @@ import shutil
 import datetime  
   
 # 定义源文件和目标文件夹  
-src_file = 'rules.txt'  
+src_file = '/home/runner/work/TheBestAdrules/TheBestAdrules/pre/rules.txt'  
 dst_folder = 'history'  
   
 # 获取当前时间戳  
