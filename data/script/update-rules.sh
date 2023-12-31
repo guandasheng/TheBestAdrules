@@ -132,6 +132,7 @@ cd ./pre
 
 # Python 处理重复规则
 python .././data/python/rule.py
+python .././data/python/backup.py
 
 # Start Add title and date
 diffFile="$(ls|sort -u)"
