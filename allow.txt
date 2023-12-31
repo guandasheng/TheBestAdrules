@@ -2,8 +2,8 @@
 ! Title: guandasheng
 ! Homepage: https://github.com/guandasheng/TheBestAdrules
 ! Homepage: https://down.newlover.cn/
-! Expires: 12 Hours! Version: 2023-12-31 20:13:19（北京时间） 
-! Total count: 7053
+! Expires: 12 Hours! Version: 2023-12-31 23:32:24（北京时间） 
+! Total count: 7052
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -785,7 +785,7 @@
 @@||alphaapi.brandify.com/rest/clicktrack$xmlhttprequest,domain=traderjoes.com
 @@||alternate.de/js/emos2.js
 @@||alternativeto.net/_next/data/*/*.json
-@@||amazon-adsystem.com/aax2/apstag.js$domain=accuweather.com|barstoolsports.com|blastingnews.com|cnn.com|exomashomepage.com|familyhandyman.com|foxbusiness.com|gamingbible.co.uk|history.com|independent.co.uk|inquirer.com|keloland.com|radio.com|rd.com|si.com|tasteofhome.com|thehealthy.com|time.com|wboy.com|wellgames.com|wkrn.com|wlns.com|wvnstv.com
+@@||amazon-adsystem.com/aax2/apstag.js$domain=accuweather.com|barstoolsports.com|blastingnews.com|cnn.com|exomashomepage.com|familyhandyman.com|foxbusiness.com|gamingbible.co.uk|history.com|independent.co.uk|inquirer.com|keloland.com|radio.com|rd.com|si.com|sportbible.com|tasteofhome.com|thehealthy.com|time.com|wboy.com|wellgames.com|wkrn.com|wlns.com|wvnstv.com
 @@||amazon-adsystem.com/aax2/apstag.js$domain=ladbible.com|unilad.com|unilad.co.uk|gamingbible.com|tyla.com|sportbible.com
 @@||amazon-adsystem.com/e/dtb/bid^$domain=kino.de
 @@||amazon-adsystem.com/widgets/q?$image,third-party
@@ -909,7 +909,6 @@
 @@||api.adinplay.com/libs/aiptag/assets/adsbygoogle.js
 @@||api.adinplay.com/libs/aiptag/pub/NND/taming.io/tag.min.js$domain=taming.io
 @@||api.adinplay.com/libs/aiptag/pub/SND/skynode.pro/tag.min.js$domain=panel.skynode.pro
-@@||api.adinplay.com/libs/aiptag/pub/WRK/tetrads.io/tag.min.js$domain=tetrads.io
 @@||api.adinplay.com/player/*/player.min.js$domain=mineparkour.club|gunzer.io|pockey.io|bist.io|piaf.io
 @@||api.ads.tvb.com^
 @@||api.amplitude.com^$xmlhttprequest,domain=insiderintelligence.com
@@ -972,7 +971,6 @@
 @@||api.geetest.com^$stealth
 @@||api.getmakerlog.com/discussions/$~third-party,websocket,xmlhttprequest
 @@||api.github.com^$stealth
-@@||api.hostemb.ws^$stealth
 @@||api.huangye.miui.com^
 @@||api.imgur.com^$stealth
 @@||api.infowarsmedia.com/videojs-event-tracking/dist/videojs-event-tracking.js
@@ -1264,7 +1262,6 @@
 @@||bilivideo.com^$stealth,domain=bilibili.com
 @@||billiger.de/js/emos2.js
 @@||billiongraves.com^$generichide
-@@||bin.bnbstatic.com^$stealth,domain=binance.com
 @@||binbucks.com/fuckadblock.js
 @@||binbucks.com^$generichide
 @@||bing.com/Passport.aspx$document
@@ -1934,7 +1931,6 @@
 @@||concert.io/lib/concert-ads/v*-latest/concert_ads.js$domain=goldenstateofmind.com
 @@||concertads-configs.vox-cdn.com/sbn/sbn/arrowheadpride/config.json$domain=arrowheadpride.com
 @@||concertads-configs.vox-cdn.com/sbn/sbn/config.json$domain=bavarianfootballworks.com
-@@||concertads-configs.vox-cdn.com/sbn/sbn/config.json$domain=goldenstateofmind.com
 @@||concertads-configs.vox-cdn.com/sbn/sbn/config.json$domain=mmafighting.com
 @@||concertads-configs.vox-cdn.com/sbn/verge/config.json$domain=theverge.com
 @@||config.inmobi.com^$app=com.picsart.studio
@@ -3715,6 +3711,7 @@
 @@||huluxia.com^
 @@||humix.com/beardeddragon/iguana.js
 @@||humix.com/beardeddragon/wyvern.js
+@@||hungryleech.com/redir^$popup
 @@||huntington.com^$document
 @@||hutchgo.advertserve.com^$domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
 @@||hvemder.no/js/hitcount.min.js$~third-party
@@ -3726,6 +3723,7 @@
 @@||i*.gmx.com/image
 @@||i*.imagetwist.com^$image,domain=imagetwist.com
 @@||i*.mangapanda.com^$image
+@@||i-funbox.com/images/
 @@||i.cdn.turner.com/ads/adfuel/ais/*/tbs-ais.min.js$domain=tbs.com
 @@||i.cdn.turner.com/ads/adfuel/ais/tcm-ais.js$domain=tcm.com
 @@||i.doodcdn.co/ads/ad.js
@@ -4064,6 +4062,7 @@
 @@||imgiz.com/rshots/*/reklam-$image,domain=izlesene.com
 @@||imgtaxi.com/img-*.html
 @@||imgur.com/min/px.js$~third-party
+@@||imgview.net/js/jquery-*.min.js
 @@||imgwallet.com/advertisement.js
 @@||imobiliare.ro/js/gtm.js$script,~third-party
 @@||improvedigital.com/pbw/headerlift.min.js$domain=games.co.uk|kizi.com|zigiz.com
@@ -4637,7 +4636,7 @@
 @@||mi.tigo.com.co/plugins/cordova-plugin-fingerprint-aio/$script,~third-party
 @@||miaozhen.com^*/m.suning.
 @@||miclaro.com.gt/assets/analytics$domain=miclaro.com.gt
-@@||micro.rubiconproject.com/prebid/dynamic/$script,domain=gamingbible.co.uk|ladbible.com
+@@||micro.rubiconproject.com/prebid/dynamic/$script,xmlhttprequest,domain=gamingbible.co.uk|ladbible.com|sportbible.com
 @@||micro.rubiconproject.com/prebid/dynamic/*.js$domain=cnbc.com
 @@||micro.rubiconproject.com/prebid/dynamic/*.js$domain=sportbible.com
 @@||micro.rubiconproject.com/prebid/dynamic/*.js$domain=tyla.com
@@ -5764,7 +5763,6 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=sinarharian.com.my
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=softonic.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=telex.hu
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=tetrads.io
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=wunderground.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=yorkshirepost.co.uk
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com
@@ -5801,6 +5799,7 @@
 @@||services.bilsyndication.com^$domain=atozmath.com,~media
 @@||services.chipotle.com/__imp_apg__/$~third-party
 @@||services.fliqz.com/metrics/*/applications/$domain=leftlanenews.com
+@@||services.postcodeanywhere.co.uk/Capture/Interactive/$stealth
 @@||services.vlitag.com/adv1/$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com
 @@||serving-sys.com/serving/adServer.bs?$popup,domain=hongkongcard.com
 @@||seselah.com^$generichide
@@ -5952,6 +5951,7 @@
 @@||spanishdict.com^$generichide
 @@||spark.co.nz/content/*/utag.sync.js$domain=skinny.co.nz
 @@||speedcurve.com/js/lux.js$script,domain=tv8.it
+@@||speedtest.net/*-login.php$domain=speedtest.net
 @@||speedtest.net/api/js/user-settings|$xmlhttprequest
 @@||speedtest.net/javascript/ads.js
 @@||speedtestcustom.com^$subdocument,stealth
@@ -6605,7 +6605,6 @@
 @@||ultimedia.com/js/common/jquery.gatracker.js
 @@||ultimedia.com/js/common/smart.js$domain=letelegramme.fr
 @@||uma.media^$stealth
-@@||unicode.org^$content
 @@||unifi.me/mootools/classes/*-tracking
 @@||unimedsorocaba.coop.br^$stealth=dpi
 @@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
