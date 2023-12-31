@@ -1,3 +1,7 @@
+import os  
+import shutil  
+import datetime  
+  
 # 定义源文件和目标文件夹  
 src_file = 'rules.txt'  
 dst_folder = 'history'  
