@@ -29,9 +29,9 @@ jobs:
           git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
           git push -u origin -f
           
-      - name: backup rules
-        run: |
-          python ./data/python/backup.py
+      #- name: backup rules
+      #  run: |
+      #    python ./data/python/backup.py
           
       - name: Delete workflow runs 
         uses: Mattraks/delete-workflow-runs@main
