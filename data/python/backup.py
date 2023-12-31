@@ -1,25 +1,16 @@
-import os  
-import shutil  
-from datetime import datetime  
+# 定义源文件和目标文件夹  
+src_file = 'rules.txt'  
+dst_folder = 'history'  
   
-def backup_rules():  
-    # 获取当前日期  
-    current_date = datetime.now().strftime('%Y-%m-%d')  
-      
-    # 定义源文件和目标文件夹  
-    src_file = '../rules.txt'  
-    dst_folder = '../history'  
-      
-    # 创建目标文件夹（如果不存在）  
-    if not os.path.exists(dst_folder):  
-        os.makedirs(dst_folder)  
-      
-    # 获取目标文件的完整路径  
-    dst_file = os.path.join(dst_folder, current_date + '_' + os.path.basename(src_file))  
-      
-    # 复制文件并重命名  
-    shutil.copy2(src_file, dst_file)  
-    print(f"备份完成: {src_file} -> {dst_file}")  
+# 获取当前时间戳  
+timestamp = datetime.datetime.now().strftime('%Y%m%d%H%M%S')  
   
-if __name__ == '__main__':  
-    backup_rules()
+# 生成目标文件名  
+dst_file = f'{timestamp}.txt'  
+  
+# 构建完整的源文件路径和目标文件夹路径  
+src_path = os.path.join(os.getcwd(), src_file)  
+dst_path = os.path.join(os.getcwd(), dst_folder, dst_file)  
+  
+# 复制文件  
+shutil.copy(src_path, dst_path)
