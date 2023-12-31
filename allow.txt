@@ -2,7 +2,7 @@
 ! Title: guandasheng
 ! Homepage: https://github.com/guandasheng/TheBestAdrules
 ! Homepage: https://down.newlover.cn/
-! Expires: 12 Hours! Version: 2024-01-01 00:24:30（北京时间） 
+! Expires: 12 Hours! Version: 2024-01-01 00:25:43（北京时间） 
 ! Total count: 7052
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
