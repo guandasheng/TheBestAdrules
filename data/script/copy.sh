@@ -6,5 +6,8 @@ if [ ! -d "./history" ]; then
   mkdir -p ./history  
 fi  
   
-# 复制 rules.txt 到 history 目录并使用当前时间作为新文件名  
-cp ./rules.txt ./history/$(date +'%Y%m%d%H%M%S').txt
+# 复制 rules.txt 到 history 目录  
+cp ./rules.txt ./history/  
+  
+# 压缩 rules.txt 为 zip 格式，并使用当前时间作为新文件名  
+zip -r ./history/$(date +'%Y%m%d%H%M%S').zip ./rules.txt
