@@ -33,7 +33,7 @@ jobs:
       # 新增步骤：复制rules.txt到history文件夹并重命名  
       - name: Copy and Rename Rules  
         run: |  
-          cp repositories/rules.txt ./history/$(date +'%Y%m%d%H%M%S').txt
+          cp ./rules.txt ./history/$(date +'%Y%m%d%H%M%S').txt
           
       - name: Delete workflow runs 
         uses: Mattraks/delete-workflow-runs@main
