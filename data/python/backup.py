@@ -7,8 +7,8 @@ def backup_rules():
     current_date = datetime.now().strftime('%Y-%m-%d')  
       
     # 定义源文件和目标文件夹  
-    src_file = './data/history/rules.txt'  
-    dst_folder = './data/history'  
+    src_file = '../rules.txt'  
+    dst_folder = '../history'  
       
     # 创建目标文件夹（如果不存在）  
     if not os.path.exists(dst_folder):  
