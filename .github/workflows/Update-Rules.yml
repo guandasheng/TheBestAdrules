@@ -31,7 +31,7 @@ jobs:
           
       - name: backup rules
         run: |
-          python .././data/python/backup.py
+          python ./data/python/backup.py
           
       - name: Delete workflow runs 
         uses: Mattraks/delete-workflow-runs@main
