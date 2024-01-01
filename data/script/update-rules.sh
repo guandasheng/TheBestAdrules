@@ -34,6 +34,8 @@ rules=(
   "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
   "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward"
   "https://raw.githubusercontent.com/hululu1068/AdGuard-Rule/main/rule/adgh.txt"
+  "https://raw.githubusercontent.com/DoingDog/XXKiller/main/f.txt"
+  
  )
 
 allow=(
