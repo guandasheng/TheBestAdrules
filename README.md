@@ -45,8 +45,8 @@
 <summary>规则列表</summary>
 <ul>
 
-- **[黑名单规则（包括白名单）（Github）](https://raw.githubusercontent.com/guandasheng/TheBestAdrules/master/rules.txt)**
-- **[黑名单规则（包括白名单）(Ghproxy-国内加速)](https://ghproxy.com/raw.githubusercontent.com/guandasheng/TheBestAdrules/master/rules.txt)**
+- **[黑名单规则（Github）](https://raw.githubusercontent.com/guandasheng/TheBestAdrules/master/rules.txt)**
+- **[黑名单规则(Ghproxy-国内加速)](https://ghproxy.com/raw.githubusercontent.com/guandasheng/TheBestAdrules/master/rules.txt)**
 - **[白名单（Github）](https://raw.githubusercontent.com/guandasheng/TheBestAdrules/master/allow.txt)**
 - **[白名单(Ghproxy-国内加速)](https://ghproxy.com/raw.githubusercontent.com/guandasheng/TheBestAdrules/master/allow.txt)**
 
