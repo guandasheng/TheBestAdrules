@@ -35,7 +35,9 @@ rules=(
   "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward"
   "https://raw.githubusercontent.com/hululu1068/AdGuard-Rule/main/rule/adgh.txt"
   "https://raw.githubusercontent.com/DoingDog/XXKiller/main/f.txt"
-  
+  "https://raw.githubusercontent.com/DoingDog/XXKiller/main/a.txt"
+  "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt"
+  "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt"
  )
 
 allow=(
