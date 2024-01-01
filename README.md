@@ -43,9 +43,8 @@
 ``` 
 <details open>
 <summary>规则列表</summary>
+<summary>黑名单规则中已包括白名单规则，只需要使用黑名单即可。有需要白名单的可以单独使用白名单</summary>
 <ul>
-- **黑名单规则中已包括白名单规则，只需要使用黑名单即可
-- **由需要的用户可以单独使用白名单
 - **[黑名单规则（Github）](https://raw.githubusercontent.com/guandasheng/TheBestAdrules/master/rules.txt)**
 - **[黑名单规则(Ghproxy-国内加速)](https://ghproxy.com/raw.githubusercontent.com/guandasheng/TheBestAdrules/master/rules.txt)**
 - **[白名单（Github）](https://raw.githubusercontent.com/guandasheng/TheBestAdrules/master/allow.txt)**
