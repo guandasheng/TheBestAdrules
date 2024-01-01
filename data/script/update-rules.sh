@@ -39,8 +39,6 @@ rules=(
 
 allow=(
   "https://raw.githubusercontent.com/8680/GOODBYEADS/master/allow.txt"
-  "https://raw.githubusercontent.com/DoingDog/XXKiller/main/a.txt"
-  "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt"
 )
 
 for i in "${!rules[@]}" "${!allow[@]}"
