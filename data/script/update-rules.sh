@@ -29,22 +29,18 @@ rules=(
   "https://adrules.top/dns.txt"
   "https://anti-ad.net/easylist.txt"
   "https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt"
-  "https://raw.githubusercontent.com/8680/GOODBYEADS/master/allow.txt"
   "https://raw.hellogithub.com/hosts"
   "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
   "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward"
   "https://raw.githubusercontent.com/hululu1068/AdGuard-Rule/main/rule/adgh.txt"
   "https://raw.githubusercontent.com/DoingDog/XXKiller/main/f.txt"
-  "https://raw.githubusercontent.com/DoingDog/XXKiller/main/a.txt"
   "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt"
-  "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt"
  )
 
 allow=(
-  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/allowlist.txt"
-  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/allowlist.txt"
-  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/allowlist.txt"
-  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/allowlist.txt"
+  "https://raw.githubusercontent.com/8680/GOODBYEADS/master/allow.txt"
+  "https://raw.githubusercontent.com/DoingDog/XXKiller/main/a.txt"
+  "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt"
 )
 
 for i in "${!rules[@]}" "${!allow[@]}"
