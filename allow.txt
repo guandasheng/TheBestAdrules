@@ -2,8 +2,8 @@
 ! Title: guandasheng
 ! Homepage: https://github.com/guandasheng/TheBestAdrules
 ! Homepage: https://down.newlover.cn/
-! Expires: 12 Hours! Version: 2024-01-04 11:25:48（北京时间） 
-! Total count: 7046
+! Expires: 12 Hours! Version: 2024-01-04 11:35:14（北京时间） 
+! Total count: 7048
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -4998,6 +4998,7 @@
 @@||osym.gov.tr^$stealth=dpi
 @@||oth.eve.mdt.qq.com^
 @@||oth.eve.mdt.qq.com^$important
+@@||oth.str.mdt.qq.com^
 @@||otheve.beacon.qq.com^$important
 @@||ots.webtrends-optimize.com/$xmlhttprequest,domain=tvlicensing.co.uk
 @@||ott.yandex.ru^$stealth
@@ -6407,6 +6408,7 @@
 @@||tm.r-ad.ne.jp/128/ra346756.js$script,domain=hpdsp.net
 @@||tmall.com/add?
 @@||tmall.com/go/*/banner.php
+@@||tmead.y.qq.com
 @@||tmgrup.com.tr/bd/hb/prebid.js$domain=atv.com.tr
 @@||tms.delta.com/delta/dl_bastian/*.js$domain=delta.com
 @@||tms.delta.com/delta/dl_bastian/serverComponent.php$domain=delta.com
