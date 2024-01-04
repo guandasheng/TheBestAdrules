@@ -161,6 +161,7 @@
 @@||mmbiz.qpic.cn^
 @@||onewsvod.com^
 @@||oth.eve.mdt.qq.com^
+@@||oth.str.mdt.qq.com^
 @@||otheve.beacon.qq.com^$important
 @@||pan.quark.cn^
 @@||pgdt.gtimg.cn^
