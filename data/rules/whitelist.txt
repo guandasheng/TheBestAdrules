@@ -1,3 +1,4 @@
+@@||kuaishouzt.com^
 @@||weather-analytics-events.apple.com^
 @@||metrics.icloud.com^
 @@||sdk.open.talk.getui.com^
