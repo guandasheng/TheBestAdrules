@@ -1,4 +1,3 @@
-@@||kuaishouzt.com^
 @@||weather-analytics-events.apple.com^
 @@||metrics.icloud.com^
 @@||sdk.open.talk.getui.com^
@@ -1181,3 +1180,5 @@ medium.com##.m, .abb, .add, .ade
 ||soul-ad.soulapp.cn
 @@||oth.str.mdt.qq.com^
 @@||tmead.y.qq.com
+@@||shminorshort.weixin.qq.com^$important
+@@||kuaishouzt.com^
