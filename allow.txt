@@ -2,8 +2,8 @@
 ! Title: guandasheng
 ! Homepage: https://github.com/guandasheng/TheBestAdrules
 ! Homepage: https://down.newlover.cn/
-! Expires: 12 Hours! Version: 2024-01-04 08:38:35（北京时间） 
-! Total count: 7043
+! Expires: 12 Hours! Version: 2024-01-04 11:14:34（北京时间） 
+! Total count: 7047
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -2292,6 +2292,7 @@
 @@||easylife.tw/js/adblockDetector.js
 @@||easylife.tw^$generichide
 @@||easypari.fr^*/sitestat.js
+@@||easyupload.io/cdn-cgi/zaraz/s.js
 @@||eatsmarter.de^*/webtrekk.js
 @@||ebank.bsstarozreby.pl^$stealth=dpi
 @@||ebates.com^$generichide
@@ -4979,6 +4980,7 @@
 @@||openpoint.com.tw^$generichide
 @@||opensubtitles.org/cdn-cgi/pe/bag2?r[]=*google-analytics.com
 @@||openx.gamereactor.dk/www/delivery/fc.php?script=bannerTypeHtml:vastInlineBannerTypeHtml:vastInlineHtml$domain=gamereactor.de
+@@||openxlab.org.cn^
 @@||opt.semasio.net/optsvc^$domain=youronlinechoices.com
 @@||optimize.webtrends.com^$domain=peterboroughtoday.co.uk
 @@||optimizely.com/js/geo2.js$domain=cbs.com
@@ -5346,6 +5348,7 @@
 @@||ptwxz.com/scripts/readindex/tongji.js
 @@||pub.alimama.com/common/adzone/
 @@||pub.doubleverify.com/dvtag/$domain=time.com
+@@||pub.doubleverify.com/dvtag/$script,domain=time.com
 @@||pub.doubleverify.com/dvtag/signals/*/pub.json$domain=ladbible.com|unilad.com|unilad.co.uk|gamingbible.com|tyla.com|sportbible.com
 @@||pub.doubleverify.com/signals/pub.js$domain=ladbible.com|unilad.com|unilad.co.uk|gamingbible.com|tyla.com|sportbible.com
 @@||pub.doubleverify.com/signals/pub.json$domain=ladbible.com|unilad.com|unilad.co.uk|gamingbible.com|tyla.com|sportbible.com
@@ -6118,6 +6121,7 @@
 @@||static3.iask.cn^
 @@||staticf.akacdn.ru/assets^
 @@||statics.cfmcdn.net/*/scripts/webtrends-$script,domain=cheapflights.com
+@@||statics.zcool.com.cn/track/sensors.$script,~third-party
 @@||stats.e-go.gr/rx.asp?$domain=megatv.com
 @@||stats.g.doubleclick.net$app=ro.rcsrds.mydigi
 @@||stats.g.doubleclick.net/dc.js$domain=dubizzle.com
@@ -6472,6 +6476,7 @@
 @@||tracker.mattel.com^$domain=barbie.com
 @@||tracking-protection.cdn.mozilla.net^
 @@||tracking.atreemo.com/Scripts/TrackingInit.js$domain=itsu.com
+@@||tracking.dpd.de^
 @@||tracking.epicgames.com^
 @@||tracking.immobilienscout24.de/tr.js?customCounterName=is24.de.meinkonto.merkzettel.myscout
 @@||tracking.lolacicek.com/aff_c?offer_id=*&aff_id=
@@ -6692,7 +6697,6 @@
 @@||videos.nbcolympics.com/beacon?$domain=nbcolympics.com
 @@||videosvc.ezoic.com/play?videoID=$domain=humix.com
 @@||videotron.com/sites/default/files/google_tag/google_tag/primary/google_tag.script.js$domain=videotron.com
-@@||videowood.tv$generichide
 @@||vidible.tv^*/ComScore.StreamSense.js
 @@||vidible.tv^*/ComScore.Viewability.js
 @@||vidmoly.to/embed-$stealth
