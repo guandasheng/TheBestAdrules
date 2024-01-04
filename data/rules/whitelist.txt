@@ -28,6 +28,12 @@
 !JD试用商品详情
 @@||wl.jd.com^$important
 !-------------白名单---------------
+!sou
+||soul-ad-h5-cdn.soulapp.cn^
+||ad-h5-station-cdn.soulapp.cn^
+||ad-r.soulapp.cn^
+||soul-ad.soulapp.cn
+
 
 #图床
 @@||pic.imgdb.cn
