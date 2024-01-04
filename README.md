@@ -51,9 +51,9 @@
 <ul>
   
 - **[黑名单规则（Github）](https://raw.githubusercontent.com/guandasheng/TheBestAdrules/master/rules.txt)**
-- **[黑名单规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/guandasheng/TheBestAdrules/master/rules.txt)**
+- **[黑名单规则(Gitee-国内加速-推荐)](https://gitee.com/guanmengkai/TheBestAdrules/raw/main/rules.txt)**
 - **[白名单（Github）](https://raw.githubusercontent.com/guandasheng/TheBestAdrules/master/allow.txt)**
-- **[白名单(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/guandasheng/TheBestAdrules/master/allow.txt)**
+- **[白名单规则(Gitee-国内加速-推荐)](https://gitee.com/guanmengkai/TheBestAdrules/raw/main/allow.txt)**
 
 </ul>
 </details>
