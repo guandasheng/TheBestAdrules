@@ -183,6 +183,7 @@
 @@||www.qchannel01.cn^
 @@||www.zhihu.com/api/v4/search_v3
 @@||wx.qlogo.cn^
+@@||tmead.y.qq.com
 #群友要求加白的网址，18岁以下勿入
 @@||madou.club
 @@||fs1.app
