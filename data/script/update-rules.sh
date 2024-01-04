@@ -29,9 +29,11 @@ rules=(
   "https://adrules.top/dns.txt"
   "https://anti-ad.net/easylist.txt"
   "https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt"
-  "https://raw.hellogithub.com/hosts"
+  "https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt"
   "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
   "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward"
+  "https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt"
+  "https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/dns.txt"
  )
 
 allow=(
