@@ -5,8 +5,8 @@
 ! Homepage: https://down.newlover.cn/
 ! Expires: 12 Hours
 ! Description: 该规则合并自AdGuard 规则、Tv规则、yhosts规则、大圣净化规则、EasyPrivacy隐私保护规则、乘风视频过滤规则、去APP下载提示规则、d3ward规则、补充规则、GOODBYEADS、anti-AD、adrules、github520-github加速访问、秋风广告规则、10007_auto保留广告奖励等众多规则
-! Version: 2024-01-05 14:25:36（北京时间） 
-! Total count: 7293
+! Version: 2024-01-05 15:04:46（北京时间） 
+! Total count: 7295
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -1359,7 +1359,7 @@
 @@||bose.tt.omtrdc.net/*/bose/mbox/json?$domain=bose.fr
 @@||bostonglobe.com/login/js/lib/AppMeasurement.js$~third-party
 @@||boxberry.ru/tracking.service^
-@@||boxer.baidu.com
+@@||boxer.baidu.com^
 @@||brave.com/static-assets/$image,~third-party
 @@||bravofly.com^$generichide
 @@||brightcove.com^$domain=wwe.com
@@ -1818,7 +1818,7 @@
 @@||chartbeat.com/js/chartbeat_brightcove_plugin.js$domain=capital.it|deejay.it|m2o.it
 @@||chasecdn.com^*/@ccb-blueanalytics/$script,domain=chase.com
 @@||chat-webim.rsb.ru/l/v/track.php?
-@@||chat.bilibili.com
+@@||chat.bilibili.com^
 @@||chat.d-id.com/assets/mixpanel.$~third-party
 @@||chat.openai.com^$stealth
 @@||chaturbate.com/*embed^$domain=chatterbate.org|uuu.cam
@@ -2668,7 +2668,7 @@
 @@||front-go.lemall.com^
 @@||frosmo.com/recoApi/$domain=eeva.fi|terve.fi|lily.fi|meillakotona.fi|apu.fi
 @@||frosmo.com^$image,xmlhttprequest,domain=karkkainen.com
-@@||fs1.app
+@@||fs1.app^
 @@||fscinda.com/ad/$~third-party
 @@||ftp.bmp.ovh^
 @@||fuckadblock.sitexw.fr/beta/fuckadblock.js$domain=fuckadblock.sitexw.fr
@@ -3744,10 +3744,10 @@
 @@||hdfilmfullizle.com/_video_onu_yeni.php?v=1$domain=hdfilmifullizle.com|hdfilmfullizle.com
 @@||hdfilmifullizle.com/_video_onu_yeni.php$domain=hdfilmifullizle.com
 @@||hdsky.net/ad/down.png
-@@||hdslb.com
 @@||hdslb.com/bfs/archive/*@$domain=bilibili.com,image
 @@||hdslb.com/bfs/cm/cm-sdk/static/js/bili-collect.js
 @@||hdslb.com/u_user/$~object,domain=bilibili.com
+@@||hdslb.com^
 @@||hdslb.com^$stealth,domain=bilibili.com
 @@||hdvid.tv/js/jquery.cookie.js
 @@||hdvid.tv/js/jquery.min.js
@@ -3775,7 +3775,7 @@
 @@||hepfinans.com/wp-content/uploads/*/Google-Adsense-$image,~third-party
 @@||heute.de/zdf/flash/eplayer/player.swf?*/cgi-bin/ivw/
 @@||heytapimage.com^
-@@||heytapmobi.com
+@@||heytapmobi.com^
 @@||hgtv.ca^$generichide
 @@||hh010.com^$generichide
 @@||hhgregg.com/wcsstore/MadisonsStorefrontAssetStore/javascript/Analytics/AnalyticsTagDataObject.js
@@ -4627,7 +4627,7 @@
 @@||ma135-r.analytics.edgekey.net^|
 @@||mabanque.fortuneo.fr/js/front/fingerprint2.js$script,domain=mabanque.fortuneo.fr
 @@||macauo2o.com/advertise/
-@@||madou.club
+@@||madou.club^
 @@||maedchen.de/sites/default/files/google_tag/google_tag_manager_fuersie/google_tag.script.js
 @@||mafia-rules.net^$app=net.bestmafia,document
 @@||mail-www.baynote.net^$domain=mail.com
@@ -5374,6 +5374,7 @@
 @@||piaotian.com/scripts/readindex/tongji.js
 @@||pic.iask.cn^
 @@||pic.imgdb.cn
+@@||pic.imgdb.cn^
 @@||piccool.com/2home/phpAdsNew/
 @@||pics.porn300.com^
 @@||pics.porndroids.com^
@@ -5601,7 +5602,7 @@
 @@||qa.smbc.co.jp^$stealth=dpi
 @@||qccommunity.qcloudimg.com^$stealth,domain=cloud.tencent.com
 @@||qcheng.cc/x/statics/js/guanggao.
-@@||qh.qlogo.cn
+@@||qh.qlogo.cn^
 @@||qhimg.com^*/monitor_analytic.
 @@||qhres.com^*/monitor_analytic.js$domain=mse.360.cn
 @@||qianpanso.cn/other/*.js$domain=cilimao.co|cilimao.one
@@ -6378,7 +6379,7 @@
 @@||storage.live.com^
 @@||storage.yandex.net/rdisk/$stealth
 @@||store-web.dynamics.com^$stealth
-@@||store.heytapimage.com
+@@||store.heytapimage.com^
 @@||stores.office.com/authredir
 @@||stpd.cloud/saas/$script,domain=dragontea.ink
 @@||stpd.cloud^$domain=freemcserver.net
@@ -6504,6 +6505,7 @@
 @@||tangdou.com/sample/share/advert?$domain=tangdoucdn.com
 @@||tangram.e.qq.com^$important
 @@||tansuo.cntv.cn^*/tansuo_Advertise.js
+@@||tantanapp.com^
 @@||tanx.com/ex?i=$script,domain=dlkoo.cc
 @@||tanx.com/ex?i=$script,domain=dlkoo.com
 @@||taobao.com/go/app/tmall/login-api.php?
@@ -6637,7 +6639,7 @@
 @@||tm.r-ad.ne.jp/128/ra346756.js$script,domain=hpdsp.net
 @@||tmall.com/add?
 @@||tmall.com/go/*/banner.php
-@@||tmead.y.qq.com
+@@||tmead.y.qq.com^
 @@||tmgrup.com.tr/bd/hb/prebid.js$domain=atv.com.tr
 @@||tms.delta.com/delta/dl_bastian/*.js$domain=delta.com
 @@||tms.delta.com/delta/dl_bastian/serverComponent.php$domain=delta.com
@@ -7257,10 +7259,10 @@
 @@||youmaker.com/js/prebid.js$domain=epochtimes.com
 @@||youmath.it/_*.js$script
 @@||youporn.com/embed/$subdocument
-@@||youtube.com
 @@||youtube.com/$stealth,app=MicrosoftEdgeCP.exe
 @@||youtube.com/live_chat$stealth=referrer
 @@||youtube.com/live_chat?$stealth
+@@||youtube.com^
 @@||youtube.googleapis.com/embed^$stealth
 @@||ytimg.com^*_banner$domain=youtube.com
 @@||ytlarge.com/youtube/css/adscroll.js
