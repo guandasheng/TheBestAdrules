@@ -216,3 +216,4 @@ adblock-tester.com##.includeWrapper, .svelte-700pcr
 @@||acs.m.taobao.com^
 @@||qlogo.cn^
 @@||broadcastlv.chat.bilibili.com^
+@@||youtube.com
