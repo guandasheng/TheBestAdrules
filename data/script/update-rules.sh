@@ -33,6 +33,7 @@ rules=(
   "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
   "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward"
   "https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt"
+  "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt"
  )
 
 allow=(
