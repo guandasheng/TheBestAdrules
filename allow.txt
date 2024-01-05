@@ -5,8 +5,8 @@
 ! Homepage: https://down.newlover.cn/
 ! Expires: 12 Hours
 ! Description: 该规则合并自AdGuard 规则、Tv规则、yhosts规则、大圣净化规则、EasyPrivacy隐私保护规则、乘风视频过滤规则、去APP下载提示规则、d3ward规则、补充规则、GOODBYEADS、anti-AD、adrules、github520-github加速访问、秋风广告规则、10007_auto保留广告奖励等众多规则
-! Version: 2024-01-05 11:40:25（北京时间） 
-! Total count: 7292
+! Version: 2024-01-05 14:25:36（北京时间） 
+! Total count: 7293
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -7257,6 +7257,7 @@
 @@||youmaker.com/js/prebid.js$domain=epochtimes.com
 @@||youmath.it/_*.js$script
 @@||youporn.com/embed/$subdocument
+@@||youtube.com
 @@||youtube.com/$stealth,app=MicrosoftEdgeCP.exe
 @@||youtube.com/live_chat$stealth=referrer
 @@||youtube.com/live_chat?$stealth
