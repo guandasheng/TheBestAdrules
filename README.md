@@ -47,39 +47,18 @@
 ``` 
 <details open>
 <summary>规则列表</summary>
-<summary>必须黑名单配合白名单一起使用，白名单是针对黑名单的误杀进行的放行</summary>
 <ul>
   
 - **[黑名单规则（Github）](https://raw.githubusercontent.com/guandasheng/TheBestAdrules/master/rules.txt)**
 - **[黑名单规则(CF国内加速-推荐)](https://github.guanmengkai.bf/https://raw.githubusercontent.com/guandasheng/TheBestAdrules/master/rules.txt)**
 - **[黑名单规则(Gitee国内加速-延迟12H)](https://gitee.com/guanmengkai/TheBestAdrules/raw/main/rules.txt)**
-- 
 
-- **[白名单（Github）](https://raw.githubusercontent.com/guandasheng/TheBestAdrules/master/allow.txt)**
-- **[白名单规则(CF国内加速-推荐)](https://github.guanmengkai.bf/https://raw.githubusercontent.com/guandasheng/TheBestAdrules/master/allow.txt)**
-- **[白名单规则(Gitee国内加速-延迟12H)](https://gitee.com/guanmengkai/TheBestAdrules/raw/main/allow.txt)**
 - 
 
 </ul>
 </details>
 
-<h2 id="b">📔 上游列表</h2>
-<details>
-<summary>点击查看</summary>
-<ul>
 
-- [AdGuard规则](https://github.com/AdguardTeam/AdguardFilters)
-- [Tv规则](https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt)
-- [yhosts规则](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts)
-- [大圣净化规则](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts)
-- [EasyPrivacy隐私保护规则](https://easylist-downloads.adblockplus.org/easyprivacy.txt)
-- [乘风视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt)
-- [去APP下载提示规则](https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt)
-- [d3ward规则](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock)
-- [补充规则](https://github.com/guandasheng/TheBestAdrules)
-- 其他关圣云®合并去重规则
-</ul>
-</details>
 
 <h2 id="c">🚫 拦截效果</h2>
 
@@ -104,5 +83,4 @@ QQ群号786113957
 - 漏拦截的广告
 - 误杀的网站
 
-特别感谢@8680的GOODBYEADS项目，本项目由其项目修改而来
 
