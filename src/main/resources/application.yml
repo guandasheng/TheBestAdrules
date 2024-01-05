@@ -22,22 +22,22 @@ application:
     remote:
       - name: 'GOODBYEADS' #规则名称
         path: 'https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt' #规则地址
-      - name: 'GOODBYEADS' #规则名称
-        path: 'https://adrules.top/dns.txt' #规则地址
-      - name: 'GOODBYEADS' #规则名称
-        path: 'https://anti-ad.net/easylist.txt' #规则地址   
-      - name: 'GOODBYEADS' #规则名称
-        path: 'https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt' #规则地址
+    #  - name: 'GOODBYEADS' #规则名称
+   #     path: 'https://adrules.top/dns.txt' #规则地址
+  #    - name: 'GOODBYEADS' #规则名称
+  #      path: 'https://anti-ad.net/easylist.txt' #规则地址   
+ #     - name: 'GOODBYEADS' #规则名称
+#        path: 'https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt' #规则地址
       - name: 'GOODBYEADS' #规则名称
         path: 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt' #规则地址
       - name: 'GOODBYEADS' #规则名称
         path: 'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward' #规则地址
-      - name: 'GOODBYEADS' #规则名称
-        path: 'https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt' #规则地址   
-      - name: 'GOODBYEADS' #规则名称
-        path: 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #规则地址
-      - name: 'GOODBYEADS' #规则名称
-        path: 'https://raw.githubusercontent.com/hululu1068/AdGuard-Rule/main/rule/adgh.txt' #规则地址 
+ #     - name: 'GOODBYEADS' #规则名称
+ #       path: 'https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt' #规则地址   
+#      - name: 'GOODBYEADS' #规则名称
+#        path: 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #规则地址
+#      - name: 'GOODBYEADS' #规则名称
+#        path: 'https://raw.githubusercontent.com/hululu1068/AdGuard-Rule/main/rule/adgh.txt' #规则地址 
     #本地规则请将文件放置到项目路径rule目录中
     local:
       - name: 'local rule'
