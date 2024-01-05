@@ -86,7 +86,7 @@ adblock-tester.com##.includeWrapper, .svelte-700pcr
 @@||weather-analytics-events.apple.com^
 @@||uc.cn^$important
 @@||tracker.ai.xiaomi.com^
-@@||tmead.y.qq.com
+@@||tmead.y.qq.com^
 @@||tc.qq.com^
 @@||tangram.e.qq.com^$important
 @@||t.eloqua.com^$important
@@ -94,7 +94,7 @@ adblock-tester.com##.includeWrapper, .svelte-700pcr
 @@||synology.com^$important
 @@||support.weixin.qq.com^$important
 @@||studcat.infra.systems^$important
-@@||store.heytapimage.com
+@@||store.heytapimage.com^
 @@||stats.jpush.cn^
 @@||shminorshort.weixin.qq.com^$important
 @@||securemvt.apple.com.cn^$important
@@ -108,12 +108,12 @@ adblock-tester.com##.includeWrapper, .svelte-700pcr
 @@||s.click.taobao.com^$important
 @@||resstatic.servicewechat.com^
 @@||quark.cn^$important
-@@||qh.qlogo.cn
+@@||qh.qlogo.cn^
 @@||puui.qpic.cn^$important
 @@||puui.qpic.cn^
 @@||ptmi.gitv.tv^$important
 @@||pingjs.qq.com^$important
-@@||pic.imgdb.cn
+@@||pic.imgdb.cn^
 @@||pgdt.gtimg.cn^$important
 @@||pgdt.gtimg.cn^
 @@||payapp.weixin.qq.com^$important
@@ -137,7 +137,7 @@ adblock-tester.com##.includeWrapper, .svelte-700pcr
 @@||metrics.icloud.com^
 @@||mediation.adnxs.com^$important
 @@||mdt.qq.com^$important
-@@||madou.club
+@@||madou.club^
 @@||m.hao123.com^$important
 @@||login.bce.baidu.com^$domain=login.bce.baidu.com
 @@||log.kuwo.cn^
@@ -155,9 +155,9 @@ adblock-tester.com##.includeWrapper, .svelte-700pcr
 @@||huluxia.com^
 @@||httpdns.kg.qq.com^$important
 @@||hm.baidu.com^$important
-@@||heytapmobi.com
+@@||heytapmobi.com^
 @@||heytapimage.com^
-@@||hdslb.com
+@@||hdslb.com^
 @@||hao123.com^$important
 @@||go.oracle.com^$important
 @@||gma.alicdn.com^
@@ -165,7 +165,7 @@ adblock-tester.com##.includeWrapper, .svelte-700pcr
 @@||get.sogou.com^$important
 @@||gdtimg.com^$important
 @@||gdt.qq.com^$important
-@@||fs1.app
+@@||fs1.app^
 @@||fp-it.fengkongcloud.com^
 @@||fonts.gstatic.com^$important
 @@||emoji.qpic.cn^
@@ -197,11 +197,11 @@ adblock-tester.com##.includeWrapper, .svelte-700pcr
 @@||clients2.google.com^$important
 @@||client-uc.heytapmobi.com^
 @@||chrome-infra-packages.appspot.com^$important
-@@||chat.bilibili.com
+@@||chat.bilibili.com^
 @@||c.y.qq.com^
 @@||c.duomai.com^$important
 @@||browser.events.data.msn.com^$important
-@@||boxer.baidu.com
+@@||boxer.baidu.com^
 @@||bootcdn.net^$important
 @@||aweme.snssdk.com^$important
 @@||ar.hao123.com^$important
@@ -216,4 +216,5 @@ adblock-tester.com##.includeWrapper, .svelte-700pcr
 @@||acs.m.taobao.com^
 @@||qlogo.cn^
 @@||broadcastlv.chat.bilibili.com^
-@@||youtube.com
+@@||youtube.com^
+@@||tantanapp.com^
