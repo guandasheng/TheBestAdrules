@@ -36,6 +36,8 @@ application:
         path: 'https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt' #规则地址   
       - name: 'GOODBYEADS' #规则名称
         path: 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #规则地址
+      - name: 'GOODBYEADS' #规则名称
+        path: 'https://raw.githubusercontent.com/hululu1068/AdGuard-Rule/main/rule/adgh.txt' #规则地址 
     #本地规则请将文件放置到项目路径rule目录中
     local:
       - name: 'local rule'
