@@ -47,7 +47,7 @@
 ``` 
 <details open>
 <summary>规则列表</summary>
-<summary>黑名单规则中已包括白名单规则，只需要使用黑名单即可。有需要白名单的可以单独使用白名单</summary>
+<summary>必须黑名单配合白名单一起使用，白名单是针对黑名单的误杀进行的放行</summary>
 <ul>
   
 - **[黑名单规则（Github）](https://raw.githubusercontent.com/guandasheng/TheBestAdrules/master/rules.txt)**
