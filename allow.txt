@@ -1,8 +1,11 @@
 [TheBestAdrules关圣云®去广告DNS规则集]
 ! Title: guandasheng
 ! Homepage: https://github.com/guandasheng/TheBestAdrules
+! Homepage: https://gitee.com/guanmengkai/TheBestAdrules
 ! Homepage: https://down.newlover.cn/
-! Expires: 12 Hours! Version: 2024-01-04 21:18:25（北京时间） 
+! Expires: 12 Hours
+! Description: 该规则合并自AdGuard 规则、Tv规则、yhosts规则、大圣净化规则、EasyPrivacy隐私保护规则、乘风视频过滤规则、去APP下载提示规则、d3ward规则、补充规则、GOODBYEADS、anti-AD、adrules、github520-github加速访问、秋风广告规则、10007_auto保留广告奖励等众多规则
+! Version: 2024-01-05 08:38:44（北京时间） 
 ! Total count: 7283
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -1036,7 +1039,6 @@
 @@||api.phnx.click/js/article-stat-v2.js$domain=smak.ua
 @@||api.playstation.com^$stealth
 @@||api.poki.com/ads/houseads/$domain=ninja.io
-@@||api.sec.miui.com^
 @@||api.sec.miui.com^$important
 @@||api.slightcommunicativeinterconnectedness.xyz^
 @@||api.solvemedia.com/papi/
@@ -1937,7 +1939,6 @@
 @@||cmp.sky.it/wrapperMessagingWithoutDetection.js$domain=tv8.it
 @@||cmp.telerama.fr/js/telerama.min.js$~third-party
 @@||cn-acs.m.cainiao.com^$important
-@@||cn.app.chat.xiaomi.net^
 @@||cn.app.chat.xiaomi.net^$important
 @@||cnbeta.com.tw^$generichide
 @@||cnet.com/*/video-player/*/lib/tracking/comscore/comscore.streaming.*.min.js
@@ -4836,6 +4837,7 @@
 @@||mmstat.com/eg.js$domain=player.youku.com
 @@||mmstat.com/eg.js$script,domain=aliexpress.com
 @@||mmstat.com^$domain=youku.com
+@@||mmstat.com^$important
 @@||mmuu22.link^$generichide
 @@||mmy.la^*300*250
 @@||mnighthk.net/template/*/ad
@@ -6634,6 +6636,7 @@
 @@||tn.voyeurhit.com^$domain=voyeurhit.tube
 @@||tns-counter.ru/tcounter.js$domain=forbes.ru
 @@||tntdrama.com/modules/custom/ten_libraries/reusedFrom*/adHelper.js$~third-party
+@@||toblog.ctobsnssdk.com^$important
 @@||toggo.de/module/catchup/admeta.php
 @@||toggo.de/static/js/sourcepoint.js$domain=toggo.de
 @@||tokbox.com/prod/logging/ClientEvent$domain=examroom.ai
