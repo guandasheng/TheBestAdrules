@@ -1,0 +1,26 @@
+name: Merge Files Workflow
+on:
+  push:
+    paths:
+      - 'add.txt'
+  workflow_dispatch:    
+
+jobs:
+  merge_files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Run custom script on file change
+        run: |
+          while inotifywait -e modify add.txt; do
+            cat add.txt >> all.txt
+            sort -u all.txt -o all.txt
+            total_lines=$(wc -l < all.txt)
+            new_lines=$((total_lines - 8))
+            current_time=$(date)
+            sed -i "7a\\$current_time updated, $new_lines lines" all.txt
+            echo "$current_time updated, $total_lines lines in total"
+          done
