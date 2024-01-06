@@ -28,10 +28,10 @@ application:
   #      path: 'https://anti-ad.net/easylist.txt' #规则地址   
  #     - name: 'GOODBYEADS' #规则名称
 #        path: 'https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt' #规则地址
-      - name: 'GOODBYEADS' #规则名称
-        path: 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt' #规则地址
-      - name: 'GOODBYEADS' #规则名称
-        path: 'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward' #规则地址
+#      - name: 'GOODBYEADS' #规则名称
+  #      path: 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt' #规则地址
+   #   - name: 'GOODBYEADS' #规则名称
+  #      path: 'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward' #规则地址
  #     - name: 'GOODBYEADS' #规则名称
  #       path: 'https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt' #规则地址   
 #      - name: 'GOODBYEADS' #规则名称
