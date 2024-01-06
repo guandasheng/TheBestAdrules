@@ -7,11 +7,8 @@ cat add.txt >> all.txt
 total_lines=$(wc -l < all.txt)
 new_lines=$((total_lines - 8))
 
-# 获取当前时间
-current_time=$(date)
+# 获取当前时间（格式化为中文）
+current_time=$(date +"规则更新时间：%Y年%m月%d日 %H时%M分%S秒")
 
 # 在第7行后插入当前时间和行数信息
-sed -i "7a\\$current_time updated, $new_lines lines" all.txt
-
-# 输出当前时间和总行数信息
-echo "$current_time updated, $total_lines rules"
+sed -i "7a\\$current_time 更新共 $new_lines 规则" all.txt
