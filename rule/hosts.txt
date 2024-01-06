@@ -1,4 +1,0 @@
-[关圣®云去广告DNS 去广告规则列表]
-! Title: hosts.txt
-! Last Modified: 2024-01-06 11:54:31
-! Homepage: https://github.com/guandasheng/TheBestAdrules/
