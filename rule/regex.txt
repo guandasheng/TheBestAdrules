@@ -1,6 +1,6 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: regex.txt
-! Last Modified: 2024-01-06 08:56:22
+! Last Modified: 2024-01-06 11:54:31
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: local rule (/home/runner/work/TheBestAdrules/TheBestAdrules/rule/local-rule.txt)
 ||dl_dir2.qq.com^
@@ -19,26 +19,6 @@
 ||p*-ad-sign.byteimg.com^
 ||upload_data.qq.com^
 ||access.pangolin-sdk-toutiao-*.com^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
-！
-||mobileanalytics.*.amazonaws.com^
-||www**.zskwai.com^
-||api-access.pangolin-sdk-toutiao*.com^
-||pagead*.google.com^
-||ads*-normal-lq.zijieapi.com^
-||adsfilebssdlbig.*.kugou.com^
-||metrics*.data.hicloud.com^
-||w*.*skwai.com^
-||p*-be-pack-sign.pglstatp-toutiao.com^
-||logservice*.hicloud.com^
-||ads-**.tiktok.com^
-||pan.baidu.com**.adVideo^
-||t*.a.market.xiaomi.com^
-||p**-be-pack-sign.pglstatp-toutiao.com^
-||v*-ad.video.yximgs.com^
-||www**.*skwai.com^
-||p*-lm.adkwai.com^
-||ad.*.xiaomi.com^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt)
 @@||adobeid-*.services.adobe.com^
 Banner468x60
@@ -82,6 +62,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||adcounter*.uptolike.ru^
 ||ad*.ettoday.net^
 ||ad-*.amazonaws.com^
+||ads*-normal-lq.zijieapi.com^
 ||ad-*.appacc.dbankedge.cn^
 ||ads*.bojijulebu.com^
 ||ads-dmp-collect.*.karrotmarket.com^
@@ -135,7 +116,6 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||cnt.yeptube.
 ||cnt.winporn.
 ||dm*.ppzuowen.com^
-||dojumbhhij._tcp.abcnews.hb.tt.omtrdc.net^
 ||cs*.mp3bars.com^
 ||cnt.hd21.
 ||clog*.yuanfudao.com^
@@ -164,6 +144,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||datacollector-*.dt.dbankcloud.cn^
 ||collector.xhamster*.
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt)
+||dojumbhhij._tcp.abcnews.hb.tt.omtrdc.net^
 ||grs.dbankcloud.
 ||gtmdev.jabra.
 ||fls-*.amazon.com^
@@ -231,6 +212,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt)
 ||maas-*.phunware.com^
 ||marketplace-*.hyprmx.com^
+||mobileanalytics.*.amazonaws.com^
 ||mediate-ios-*.hyprmx.com^
 ||matt.mercadolibre.
 ||metric*.rediff.com^
@@ -307,20 +289,21 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||tracking-*.trnox.com^
 ||t.delfi.
 ||track.tiara.
-||union*.365inews.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||tw*.netcore.co.in^
 ||track.*.roku.com^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt)
-||xlog*-*.tiktokv.com^
 ||xxlef||xyhojp.lacoste.com^
-||util-*.simply-hentai.com^
 ||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
-||ya*.dwstatic.com^
 ||xcztjggjgx._tcp.abcotv.hb.tt.omtrdc.net^
-||zewdpmtypi._tcp.abcnews.hb.tt.omtrdc.net^
-||wa.gmx.
-||vns86.oss-*.aliyuncs.com^
 ||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
+||xlog*-*.tiktokv.com^
+||util-*.simply-hentai.com^
+||ya*.dwstatic.com^
+||zewdpmtypi._tcp.abcnews.hb.tt.omtrdc.net^
+||v*-ad.video.yximgs.com^
+||wa.gmx.
+||union*.365inews.com^
+||vns86.oss-*.aliyuncs.com^
 ||ysdm*.ys137.com.cn^
