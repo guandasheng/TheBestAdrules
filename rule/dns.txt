@@ -1,6 +1,6 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: dns.txt
-! Last Modified: 2024-01-06 00:55:31
+! Last Modified: 2024-01-06 08:56:22
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: local rule (/home/runner/work/TheBestAdrules/TheBestAdrules/rule/local-rule.txt)
 ||dl_dir2.qq.com^
