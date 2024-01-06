@@ -40,16 +40,16 @@
 <h2 id="a">🎯 规则订阅</h2>
 
 ```
-每8小时自动更新一次
+由关圣云手动更新整理
 ``` 
 <details open>
 <summary>规则列表</summary>
 <ul>
 
 -  
-- **[黑名单规则（Github）](https://raw.githubusercontent.com/guandasheng/TheBestAdrules/main/rule/dns.txt)**
-- **[黑名单规则(CF国内加速-推荐)](https://github.guanmengkai.bf/https://raw.githubusercontent.com/guandasheng/TheBestAdrules/main/rule/dns.txt)**
-- **[黑名单规则(Gitee国内加速-延迟12H)](https://gitee.com/guanmengkai/TheBestAdrules/raw/main/rule/dns.txt)**
+- **[黑名单规则（Github）](https://raw.githubusercontent.com/guandasheng/TheBestAdrules/main/all.txt)**
+- **[黑名单规则(CF国内加速-推荐)](https://github.guanmengkai.bf/https://raw.githubusercontent.com/guandasheng/TheBestAdrules/main/all.txt)**
+- **[黑名单规则(Gitee国内加速-延迟12H)](https://gitee.com/guanmengkai/TheBestAdrules/raw/main/all.txt)**
 
 - 
 
