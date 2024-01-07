@@ -1,5 +1,5 @@
 [TheBestAdrules-关圣云®去广告DNS开源规则]
-! 更新时间: 2024.01.06
+
 ! 官网：https://down.newlover.cn/
 ! QQ群：786113957
 ! 微信群：加微信号gmk2099，备注dns入群
@@ -93732,8 +93732,6 @@
 ||p.qfmzys.com^
 ||p.qiailm.com^
 ||p.qijijs.top^
-||p.qlogo.cn^
-||p.qlogo.cn^$domain=jumi.tv
 ||p.raasnet.com^
 ||p.raidmedia.com.cn^
 ||p.rfihub.com^
@@ -147139,4 +147137,3 @@
 ||zzyy20.top^
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-@@||p.qlogo.cn^$important
