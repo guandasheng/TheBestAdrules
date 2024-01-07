@@ -5,7 +5,7 @@
 ! 微信群：加微信号gmk2099，备注dns入群
 ! github项目地址：https://github.com/guandasheng/TheBestAdrules
 ! gitee项目地址：https://gitee.com/guanmengkai/TheBestAdrules
-
+规则更新时间：2024年01月07日 04时19分11秒 更新共 147134 规则
 
 
 
@@ -147139,3 +147139,4 @@
 ||zzyy20.top^
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+@@||p.qlogo.cn^$important
